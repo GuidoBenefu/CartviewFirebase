@@ -1,0 +1,52 @@
+[
+    {
+      "precio": 15000,
+      "id": 1,
+      "categoryId":"electronica",
+      "title": "Monitor",
+      "slug": "monitor",
+      "img": "./img/Monitor.webp",
+      "thumbnailUrl": "https://static.lenovo.com/mea/campaign/newmonitors/images/P27q-10/P27q-1.png",
+      "description": "Este es un gran producto, muy amigable a la vista y con una muy buena calidad"
+    },
+    {
+      "precio": 4000,
+      "id": 2,
+      "categoryId":"electronica",
+      "title": "Teclado",
+      "img": "./img/Teclado.png",
+      "slug": "teclado",
+      "thumbnailUrl": "https://novati.com.ar/tiendainformatica/wp-content/uploads/2021/10/K512_PNGWEB-1-600x600.png",
+      "description": "Este producto tiene una gran capacidad de reaccion, y es muy comodo para tus manos"
+    },
+    {
+      "precio": 2500,
+      "id": 3,
+      "categoryId":"electronica",
+      "title": "Mouse",
+      "slug": "mouse",
+      "img": "./img/Mouse.jpg",
+      "thumbnailUrl": "https://www.unmundo.com.ar/3299-large_default/mouse-gamer-usb-sensor-8108-tc.jpg",
+      "description": "Es un gran producto si lo que quieres es ser eficaz, una gran velocidad de reaccion y buen DPI"
+    },
+    {
+      "precio": 5000,
+      "id": 4,
+      "categoryId":"electronica",
+      "title": "Auricular",
+      "slug": "auricular",
+      "img": "./img/Auricular.png",
+      "thumbnailUrl": "https://d2r9epyceweg5n.cloudfront.net/stores/845/404/products/a10-gallery-xbox-0111-ce45b9d29ef41c19ff16049052421677-1024-1024.png",
+      "description": "Este producto tiene un gran sonido limpio, y es muy comodo para tu cabeza"
+    },
+    {
+      "precio": 1000,
+      "id": 5,
+      "categoryId":"electronica",
+      "title": "MousePad",
+      "slug": "mousepad",
+      "img": "./img/MousePad.png",
+      "thumbnailUrl": "https://novati.com.ar/tiendainformatica/wp-content/uploads/2020/07/943-000098_2.png",
+      "description": "En este producto el Mouse se desliza de lujo, es muy como y amigable con tus manos"
+    }
+  ]
